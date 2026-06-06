@@ -14,7 +14,9 @@ Steps to run the project:
 
 Install XAMPP
 Copy the project folder to htdocs
+
 Import database.sql in phpMyAdmin
+
 Open browser and go to http://localhost/project/index.php
 
 Admin login:
