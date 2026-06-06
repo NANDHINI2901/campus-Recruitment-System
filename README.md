@@ -22,5 +22,6 @@ Open browser and go to http://localhost/project/index.php
 Admin login:
 
 Username: admin
+
 Password: admin123
 
